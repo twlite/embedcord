@@ -40,3 +40,6 @@ embed = {
     timestamp: null
 }
 ```
+
+# Image [Code taken from an idiot's guide]
+![Image](https://github.com/INEX07/embedcord/blob/master/image.png)
