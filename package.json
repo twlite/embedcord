@@ -1,0 +1,31 @@
+{
+  "name": "embedcord",
+  "version": "1.0.0",
+  "description": "Embed builder package for discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INEX07/discord-embed.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "eris",
+    "discord-tnt",
+    "embed",
+    "discord-embed",
+    "discord-embed-builder",
+    "richembed",
+    "messageembed",
+    "embedcord"
+  ],
+  "author": "INEX07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INEX07/discord-embed/issues"
+  },
+  "homepage": "https://github.com/INEX07/discord-embed#readme"
+}
