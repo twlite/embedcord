@@ -1,6 +1,13 @@
 # Embedcord
 A package for discord to build embeds like discord.js
 
+# NPM
+```
+npm i --save embedcord
+```
+
+[![NPM](https://nodei.co/npm/embedcord.png)](https://nodei.co/npm/embedcord/)
+
 # Quick Example
 ```js
 const  Embed = require("embedcord");
