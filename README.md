@@ -93,4 +93,4 @@ embed = {
 ```
 
 # Image
-![Image](https://github.com/INEX07/embedcord/blob/master/image.png)
+![Image](https://github.com/INEX07/embedcord/blob/master/pic.png)
